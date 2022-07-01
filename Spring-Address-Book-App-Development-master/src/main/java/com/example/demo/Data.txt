@@ -1,0 +1,15 @@
+{"message":"Data retrived successfully :","data":
+[{"id":1,"email":"don@gmail.com","firstName":"piyush","lastName":"verma","phoneNumber":9898989898,"city":"delhi","state":"haryana","zip":121001},
+{"id":2,"email":"nikhilgmail.com","firstName":"Nikhil","lastName":"Bhatia","phoneNumber":9999998786,"city":"delhi","state":"haryana","zip":121001},
+{"id":3,"email":"pankajgmail.com","firstName":"Pankaj","lastName":"Verma","phoneNumber":9878676765,"city":"Fridabad","state":"haryana","zip":121001},
+{"id":4,"email":"vivekgmail.com","firstName":"Vivek","lastName":"Sharma","phoneNumber":9876765545,"city":"Ambala","state":"haryana","zip":120116},
+{"id":6,"email":"vivek@gmail.com","firstName":"Nikhil","lastName":"Sharma","phoneNumber":9876765545,"city":"Dubai","state":"haryana","zip":120116},
+{"id":7,"email":"vivek@gmail.com","firstName":"Raj","lastName":"Sharma","phoneNumber":9876765545,"city":"Mumbai","state":"Mumbai","zip":120116},{"id":8,"email":"Robert@gmail.com",
+"firstName":"Bill","lastName":"Robert","phoneNumber":9898998767,"city":"Himachal","state":"Mandi","zip":120145},
+{"id":9,"email":"Robert@gmail.com","firstName":"Bill","lastName":"Robert","phoneNumber":9898998767,"city":"Himachal","state":"Mandi","zip":120145},
+{"id":10,"email":"Nitesh@gmail.com","firstName":"Nitesh","lastName":"Sharma","phoneNumber":9898776765,"city":"Palwal","state":"Haryana","zip":120144},
+{"id":11,"email":"Nitesh@gmail.com","firstName":"Nitesh","lastName":"Sharma","phoneNumber":9898776765,"city":"Palwal","state":"Haryana","zip":120144},
+{"id":12,"email":"Nitesh@gmail.com","firstName":"Nitesh","lastName":"Sharma","phoneNumber":9898776765,"city":"Palwal","state":"Haryana","zip":120144},{"id":13,"email":"piyush
+.verma@bridgelabz.com","firstName":"Piyush","lastName":"Sharma","phoneNumber":9910936991,"city":"chandigarh","state":"chandigarh","zip":160003},
+{"id":14,"email":"parvez.makandar@bridgelabz.com","firstName":"Parvez","lastName":"Makandar","phoneNumber":9910936991,"city":"Goa","state":"Goa","zip":160003},
+{"id":15,"email":"parvezhm050@gmail.com","firstName":"Zaid","lastName":"Maks","phoneNumber":9898887877,"city":"Punaji","state":"Goa","zip":160003}]}
